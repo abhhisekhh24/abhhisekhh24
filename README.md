@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build things that actually solve problems — not demo projects that die after submission.<br>Currently working across software, cybersecurity concepts, and product-focused engineering, with hands-on experience turning ideas into working systems.<br><br>I care about clarity over complexity, execution over theory, and learning by breaking things.<br>If the code doesn’t scale, isn’t secure, or can’t survive real users, I’m not done.<br><br>Always improving. Always shipping.
+I build things that actually solve problems  not demo projects that die after submission.<br>Currently working across software, cybersecurity concepts, and product-focused engineering, with hands-on experience turning ideas into working systems.<br><br>I care about clarity over complexity, execution over theory, and learning by breaking things.<br>If the code doesn’t scale, isn’t secure, or can’t survive real users, I’m not done.<br><br>Always improving. Always shipping.
 
 
 ## 🌐 Socials:
